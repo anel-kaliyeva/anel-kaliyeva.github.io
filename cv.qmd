@@ -1,0 +1,14 @@
+---
+title: "CV"
+---
+
+[Download my CV](cv.pdf)
+
+## Experience
+...
+
+## Education
+...
+
+## Skills
+...
