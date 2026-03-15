@@ -3,7 +3,7 @@
 title: "Anel Kaliyeva"
 image: id photo new.jpg
 about:
-  template: marquee
+  template: broadside
   links:
     - icon: linkedin
       text: LinkedIn
