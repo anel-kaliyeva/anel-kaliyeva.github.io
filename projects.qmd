@@ -1,0 +1,10 @@
+---
+title: "Projects"
+---
+
+## Project name
+Short description of what you built, what problem 
+it solved, and what tools you used.
+
+## Project name
+Same structure.
