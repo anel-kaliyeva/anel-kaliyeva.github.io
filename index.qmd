@@ -1,19 +1,19 @@
 
 ---
 title: "Anel Kaliyeva"
-image: photo.jpg
+image: id photo new.jpg
 about:
   template: jolla
   links:
     - icon: linkedin
       text: LinkedIn
-      href: "https://linkedin.com/in/yourprofile"
+      href: "https://linkedin.com/in/anel-kaliyeva"
     - icon: github
       text: GitHub
       href: "https://github.com/anel-kaliyeva"
     - icon: envelope
       text: Email
-      href: "mailto:youremail@gmail.com"
+      href: "anellina.kaliyeva@gmail.com"
 ---
 
 One sentence about who you are and what you do.
