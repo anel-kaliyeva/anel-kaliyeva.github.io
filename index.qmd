@@ -1,1 +1,34 @@
 
+---
+title: "Anel Kaliyeva"
+image: photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://linkedin.com/in/yourprofile"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/anel-kaliyeva"
+    - icon: envelope
+      text: Email
+      href: "mailto:youremail@gmail.com"
+---
+
+One sentence about who you are and what you do.
+Something like: "PhD candidate in [field] with expertise 
+in X and Y, looking to apply my skills in [industry]."
+
+## About me
+
+Two or three sentences. Focus on what you bring to 
+a company, not your academic achievements. Mention 
+your PhD briefly as credibility, not as the main story.
+
+## Skills
+
+- Python, R, SQL
+- Machine learning, statistical modelling
+- Data visualization
+- [Add your real skills here]
