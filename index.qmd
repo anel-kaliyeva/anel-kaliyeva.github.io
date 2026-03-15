@@ -7,7 +7,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: "https://linkedin.com/in/anel-kaliyeva"
+      href: "https://www.linkedin.com/in/anel-kaliyeva/"
     - icon: github
       text: GitHub
       href: "https://github.com/anel-kaliyeva"
