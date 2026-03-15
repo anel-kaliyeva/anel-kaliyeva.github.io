@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anel Kaliyeva"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: linkedin
+        href: "https://linkedin.com/in/yourprofile"
+      - icon: github
+        href: "https://github.com/anel-kaliyeva"
+      - icon: envelope
+        href: "mailto:youremail@gmail.com"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
