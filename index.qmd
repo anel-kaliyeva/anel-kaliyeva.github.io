@@ -3,7 +3,7 @@
 title: "Anel Kaliyeva"
 image: id photo new.jpg
 about:
-  template: jolla
+  template: solana
   links:
     - icon: linkedin
       text: LinkedIn
